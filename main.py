@@ -1,0 +1,5 @@
+spock = "spock"
+tijeras = "tijeras"
+papel = "papel"
+roca = "roca"
+lagarto = "lagarto"
