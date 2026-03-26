@@ -31,7 +31,7 @@ if usuario == 3: #papel
     elif rival == 2 or rival == 5:
         resultado = "Perdiste"
 if usuario == 4: #roca
-    usuario = ""
+    usuario = "roca"
     if rival == 5 or rival == 2:
         resultado = "Ganaste"
     elif rival == 1 or rival == 3:
