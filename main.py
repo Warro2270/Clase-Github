@@ -37,7 +37,7 @@ if usuario == 4: #roca
     elif rival == 1 or rival == 3:
         resultado = "Perdiste"
 if usuario == 5: #lagarto
-    usuario = ""
+    usuario = "lagarto"
     if rival == 1 or rival == 3:
         resultado = "Ganaste"
     elif rival == 2 or rival == 4:
